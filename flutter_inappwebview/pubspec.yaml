@@ -18,8 +18,6 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  flutter_inappwebview_platform_interface: ^1.0.10
-  
 
 dev_dependencies:
   flutter_test:
