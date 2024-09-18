@@ -22,17 +22,17 @@ dependencies:
     git: 
       url: https://github.com/inanhh/flutter_inappwebview.git
       path: flutter_inappwebview_platform_interface
-      branch: v6.0.0
+      ref: v6.0.0
   flutter_inappwebview_android:
     git: 
       url: https://github.com/inanhh/flutter_inappwebview.git
       path: flutter_inappwebview_android
-      branch: v6.0.0
+      ref: v6.0.0
   flutter_inappwebview_ios: 
     git: 
       url: https://github.com/inanhh/flutter_inappwebview.git
       path: flutter_inappwebview_ios
-      branch: v6.0.0
+      ref: v6.0.0
   flutter_inappwebview_macos: 
     git: 
       url: https://github.com/inanhh/flutter_inappwebview.git
@@ -42,7 +42,7 @@ dependencies:
     git: 
       url: https://github.com/inanhh/flutter_inappwebview.git
       path: flutter_inappwebview_web
-      branch: v6.0.0
+      ref: v6.0.0
 
 dev_dependencies:
   flutter_test:
