@@ -25,6 +25,7 @@ dependencies:
     git: 
       url: https://github.com/inanhh/flutter_inappwebview.git
       path: flutter_inappwebview_macos
+      branch: v6.0.0
   flutter_inappwebview_web: ^1.0.8
 
 dev_dependencies:
